@@ -1,6 +1,2 @@
 # hello-world
-I'm not very good at this
-
-yet..
-
-even more lines
+I now know how to kind of do this
