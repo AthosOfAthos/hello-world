@@ -1,2 +1,2 @@
 # hello-world
-I now know how to kind of do this
+First github repo with a basic hello world in java
